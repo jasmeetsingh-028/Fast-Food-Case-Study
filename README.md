@@ -33,7 +33,7 @@ To get started with this project, follow these steps:
 
 ## Usage
 
-To reproduce the analysis, open the Jupyter Notebook `food_preferences_analysis.ipynb` inside Notebooks and Dataset and follow the step-by-step instructions provided in the notebook. The notebook covers the following areas:
+To reproduce the analysis, open the Jupyter Notebook `notebook.ipynb` inside Notebooks and Dataset and follow the step-by-step instructions provided in the notebook. The notebook covers the following areas:
 
 - Data preprocessing: Cleaning and preparing the dataset for analysis.
 - Exploratory data analysis (EDA): Descriptive statistics, data visualization, and pattern discovery.
