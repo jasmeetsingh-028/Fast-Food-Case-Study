@@ -16,7 +16,7 @@ An analysis of customer food preferences based on a McDonalds dataset. The analy
 Food businesses often strive to understand customer preferences to better cater to their needs. This project aims to analyze customer food preferences by examining McDonalds dataset containing information about food attributes, customer demographics, and customer ratings.
 
 The objectives of this analysis are as follows:
-- Explore the relationships between food attributes (e.g., taste, healthiness) and customer ratings.
+- Explore the relationships between food attributes and customer ratings.
 - Understand Market Segementation using the dataset,.
 - Visualize key insights to aid in decision-making for food-related businesses.
 
