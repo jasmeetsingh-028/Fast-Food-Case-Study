@@ -29,7 +29,7 @@ To get started with this project, follow these steps:
 -  git clone https://github.com/jasmeetsingh-028/Fast-Food-Case-Study
 
 
-3. Open the Jupyter Notebook `food_preferences_analysis.ipynb` to view the analysis.
+3. Open the Jupyter Notebook `notebook.ipynb` inside Notebooks and Dataset to view the analysis.
 
 ## Usage
 
