@@ -16,13 +16,8 @@ An analysis of customer food preferences based on a McDonalds dataset. The analy
 Food businesses often strive to understand customer preferences to better cater to their needs. This project aims to analyze customer food preferences by examining McDonalds dataset containing information about food attributes, customer demographics, and customer ratings.
 
 The objectives of this analysis are as follows:
-<<<<<<< HEAD
 - Explore the relationships between food attributes (e.g., taste, healthiness) and customer ratings.
 - Understand Market Segementation using the dataset.
-=======
-- Explore the relationships between food attributes and customer ratings.
-- Understand Market Segementation using the dataset,.
->>>>>>> c607b2aa0f66383bdd41d5b1828463cb4e055a73
 - Visualize key insights to aid in decision-making for food-related businesses.
 
 ## Getting Started
@@ -35,13 +30,9 @@ To get started with this project, follow these steps:
 
 2. Install requirements.txt using:
 
-<<<<<<< HEAD
 - pip install -r requirements.txt
 
 3. Open the Jupyter Notebook `notebook.ipynb` to view the analysis.
-=======
-3. Open the Jupyter Notebook `notebook.ipynb` inside Notebooks and Dataset to view the analysis.
->>>>>>> c607b2aa0f66383bdd41d5b1828463cb4e055a73
 
 ## Usage
 
@@ -83,4 +74,4 @@ Contributions to this project are welcome. If you'd like to report issues, sugge
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
