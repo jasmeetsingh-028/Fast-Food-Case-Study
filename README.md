@@ -17,7 +17,7 @@ Food businesses often strive to understand customer preferences to better cater 
 
 The objectives of this analysis are as follows:
 - Explore the relationships between food attributes (e.g., taste, healthiness) and customer ratings.
-- Understand Market Segementation using the dataset,.
+- Understand Market Segementation using the dataset.
 - Visualize key insights to aid in decision-making for food-related businesses.
 
 ## Getting Started
@@ -28,12 +28,15 @@ To get started with this project, follow these steps:
 
 -  git clone https://github.com/jasmeetsingh-028/Fast-Food-Case-Study
 
+2. Install requirements.txt using:
 
-3. Open the Jupyter Notebook `food_preferences_analysis.ipynb` to view the analysis.
+- pip install -r requirements.txt
+
+3. Open the Jupyter Notebook `notebook.ipynb` to view the analysis.
 
 ## Usage
 
-To reproduce the analysis, open the Jupyter Notebook `food_preferences_analysis.ipynb` inside Notebooks and Dataset and follow the step-by-step instructions provided in the notebook. The notebook covers the following areas:
+To reproduce the analysis, open the Jupyter Notebook `notebook.ipynb` inside Notebooks and Dataset and follow the step-by-step instructions provided in the notebook. The notebook covers the following areas:
 
 - Data preprocessing: Cleaning and preparing the dataset for analysis.
 - Exploratory data analysis (EDA): Descriptive statistics, data visualization, and pattern discovery.
@@ -52,12 +55,14 @@ The Jupyter Notebook `notbook.ipynb` contains detailed explanations and code for
 - Explore data distribution.
 - Visualize customer ratings and attribute preferences.
 - Investigate demographic characteristics.
+- Profile Report of the dataset using Pandas Profiling.
 
 3. **PCA:**
 - Perform PCA to identify significant relationships.
 
 4. **K-Means clustering:**
-- Perform SMarket Segmentation.
+- Perform Market Segmentation.
+- 
 
 ## Contributing
 
