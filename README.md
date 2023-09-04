@@ -62,7 +62,7 @@ The Jupyter Notebook `notbook.ipynb` contains detailed explanations and code for
 
 4. **K-Means clustering:**
 - Perform Market Segmentation.
-- 
+- Implementing Bootstrap resampling with K-Means.
 
 ## Contributing
 
